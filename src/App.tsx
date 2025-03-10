@@ -21,17 +21,17 @@ function App() {
       <div className="w-full max-w-md space-y-4 mb-8">
         <h2 className="text-xl font-semibold text-gray-800 mb-4">Redes Sociais</h2>
         
-        <a href="#" className="flex items-center bg-gradient-to-r from-[#833AB4] via-[#C13584] to-[#E1306C] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://www.instagram.com/fitbeauty_modafitness/" className="flex items-center bg-gradient-to-r from-[#833AB4] via-[#C13584] to-[#E1306C] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
           <img src="/img/instagram.png" alt="Instagram" className="w-6 h-6 mr-3" />
           <span className="font-medium">Instagram</span>
         </a>
 
-        <a href="#" className="flex items-center bg-[#1877F2] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://www.facebook.com/profile.php?id=100089931905036" className="flex items-center bg-[#1877F2] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
           <img src="/img/facebook.png" alt="Facebook" className="w-6 h-6 mr-3" />
           <span className="font-medium">Facebook</span>
         </a>
 
-        <a href="#" className="flex items-center bg-black text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://www.tiktok.com/@fitbeauty.modafitness" className="flex items-center bg-black text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
           <img src="/img/tiktok.png" alt="TikTok" className="w-6 h-6 mr-3" />
           <span className="font-medium">TikTok</span>
         </a>
@@ -42,22 +42,22 @@ function App() {
       <div className="w-full max-w-md space-y-4">
         <h2 className="text-xl font-semibold text-gray-800 mb-4">Marketplaces</h2>
 
-        <a href="#" className="flex items-center bg-[#FF9BB3] text-gray-800 p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://fitbeautymf.com.br/" className="flex items-center bg-[#FF9BB3] text-gray-800 p-4 rounded-lg hover:opacity-90 transition-opacity">
           <img src="/img/store.png" alt="Site Oficial" className="w-6 h-6 mr-3" />
           <span className="font-medium">Site Oficial</span>
         </a>
 
-        <a href="#" className="flex items-center bg-[#FFE600] text-black p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://lista.mercadolivre.com.br/_CustId_1289124856?item_id=MLB3746641451&category_id=MLB278018&seller_id=1289124856&client=recoview-selleritems&recos_listing=true" className="flex items-center bg-[#FFE600] text-black p-4 rounded-lg hover:opacity-90 transition-opacity">
           <img src="/img/mercadolivre.png" alt="Mercado Livre" className="w-6 h-6 mr-3" />
           <span className="font-medium">Mercado Livre</span>
         </a>
 
-        <a href="#" className="flex items-center bg-[#EE4D2D] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://shopee.com.br/shop/939346295" className="flex items-center bg-[#EE4D2D] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
           <img src="/img/shopee.png" alt="Shopee" className="w-6 h-6 mr-3" />
           <span className="font-medium">Shopee</span>
         </a>
 
-        <a href="#" className="flex items-center bg-[#8A2BE2] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://www.netshoes.com.br/fit-beauty" className="flex items-center bg-[#8A2BE2] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
           <img src="/img/netshoes.png" alt="Netshoes" className="w-6 h-6 mr-3" />
           <span className="font-medium">Netshoes</span>
         </a>
