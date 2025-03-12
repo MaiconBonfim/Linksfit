@@ -6,7 +6,7 @@ function App() {
       {/* Profile Section */}
       <div className="w-32 h-32 rounded-full overflow-hidden mb-4">
         <img 
-          src="https://scontent.fgru16-1.fna.fbcdn.net/v/t39.30808-6/463967051_506208969053496_2309630364236015929_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGcHwdmpW4y810y72UcEghHKLWP3fancXIotY_d9qdxckerQNy2hyyj0AePXo5xXb97bdH9hNBEefCQpxHuPuQr&_nc_ohc=auG0xQ22POAQ7kNvgFephQ0&_nc_oc=AdhChE6s4SaRLDDHZTlgzfBiUWFXBEj3ujDPerwiPtwT2E4LTmIfZzXIQk73jWEHMa0&_nc_zt=23&_nc_ht=scontent.fgru16-1.fna&_nc_gid=A8Y3_3Om1dnbN34hq6YBRdH&oh=00_AYH981bgOwcxsPu2v0EyLpLqWSYh6iBKSIVdIvK0kv8wcg&oe=67D0EFEA" 
+          src="/img/logo.png" 
           alt="FitBeauty Logo" 
           className="w-full h-full object-cover"
         />
