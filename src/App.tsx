@@ -68,7 +68,7 @@ function App() {
 
       {/* Footer */}
       <footer className="mt-12 text-center text-gray-500 text-sm">
-        <p>© 2025 FitBeauty ModaFitness - Todos os direitos reservados</p>
+        <p>© 2025 FitBeauty - Todos os direitos reservados</p>
         <p>powered by <a href="https://wa.me/5511939555609?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20serviços!" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 transition-colors">Sourcex</a></p>
       </footer>
     </div>
