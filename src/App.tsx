@@ -12,9 +12,9 @@ function App() {
         />
       </div>
       
-      <h1 className="text-2xl font-bold text-gray-800 mb-1">FitBeauty ModaFitness</h1>
+      <h1 className="text-2xl font-bold text-gray-800 mb-1">FitBeauty</h1>
       <p className="text-gray-600 text-center mb-8 max-w-md">
-        Sua loja especializada em moda fitness de alta qualidade. Estilo e conforto para seus treinos!
+        Moda esportiva com propósito ✨ Para quem treina com estilo, atitude e conforto. ✈️ São Paulo para o mundo Movimento é nossa essência.👇
       </p>
 
       {/* Social Media Links */}
