@@ -15,7 +15,7 @@ function App() {
       <h1 className="text-4xl font-bold mb-0" style={{ color: '#86d7b8' }}>
   Fit Beauty
 </h1>
-<h1 className="text-lg font-bold mt-[-4px]" style={{ color: '#ff82a5' }}>
+<h1 className="text-4g font-bold mt-[-4px]" style={{ color: '#ff82a5' }}>
   ACREDITE NO SEU MOVIMENTO
 </h1>
       <p className="text-gray-600 text-center mb-8 max-w-md leading-snug">
