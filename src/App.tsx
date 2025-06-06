@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="min-h-screen bg-white flex flex-col items-center px-4 py-8">
       {/* Profile Section */}
-      <div className="w-32 h-32 rounded-full overflow-hidden mb-1">
+      <div className="w-32 h-32 rounded-full overflow-hidden mb-0">
         <img 
           src="/img/logo.png" 
           alt="FitBeauty Logo" 
