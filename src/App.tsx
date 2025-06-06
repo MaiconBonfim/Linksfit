@@ -12,8 +12,11 @@ function App() {
         />
       </div>
       
-      <h1 className="text-2xl font-bold mb-1" style={{ color: '#86d7b8' }}>
+      <h1 className="text-2xl font-bold mb-0" style={{ color: '#86d7b8' }}>
   Fit Beauty
+</h1>
+<h1 className="text-2xl font-bold mt-[-4px]" style={{ color: '#86d7b8' }}>
+  ACREDITE NO SEU MOVIMENTO
 </h1>
       <p className="text-gray-600 text-center mb-8 max-w-md leading-snug">
   Roupas que despertam o espírito 💫<br />
