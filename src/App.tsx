@@ -13,12 +13,11 @@ function App() {
       </div>
       
       <h1 className="text-2xl font-bold text-gray-800 mb-1">FitBeauty</h1>
-      <p className="text-gray-600 text-center mb-8 max-w-md">
-        Moda esportiva com propósito ✨<br />
-        Para quem treina com estilo, atitude e conforto.<br />
-        ✈️ São Paulo para o mundo<br />
-         Movimento é nossa essência.👇
-      </p>
+      <p className="text-gray-600 text-center mb-8 max-w-md leading-snug">
+  Roupas que despertam o espírito 💫<br />
+  Estilo, leveza e força para quem treina corpo e coragem.<br />
+  ✈️ São Paulo para o mundo
+</p>
 
       {/* Social Media Links */}
       <div className="w-full max-w-md space-y-4 mb-8">
