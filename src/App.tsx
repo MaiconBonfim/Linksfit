@@ -12,7 +12,7 @@ function App() {
         />
       </div>
       
-      <h1 className="text-2xl font-bold mb-0" style={{ color: '#86d7b8' }}>
+      <h1 className="text-4xl font-bold mb-0" style={{ color: '#86d7b8' }}>
   Fit Beauty
 </h1>
 <h1 className="text-2xl font-bold mt-[-8px]" style={{ color: '#ff82a5' }}>
