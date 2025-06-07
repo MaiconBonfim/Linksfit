@@ -49,7 +49,7 @@ function App() {
       <div className="w-full max-w-md space-y-4">
         <h2 className="text-xl font-semibold text-gray-800 mb-4">Marketplaces</h2>
 
-        <a href="https://fitbeautymf.com.br/" className="flex items-center bg-[#FF9BB3] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
+        <a href="https://fitbeautymf.com.br/" className="flex items-center bg-[#ff82a5] text-white p-4 rounded-lg hover:opacity-90 transition-opacity">
   <img src="/img/store.png" alt="Site Oficial" className="w-6 h-6 mr-3" />
   <span className="font-medium">Site Oficial</span>
 </a>
